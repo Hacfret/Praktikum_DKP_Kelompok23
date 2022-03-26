@@ -1,1 +1,8 @@
 # Praktikum_DKP_Kelompok23
+
+Berikut nama anggota kelompok 23:
+
+<br />FARAH GESTY AMANDARI    21120121140112 - Shift 2
+<br />AHMAD RIZQY YOURIN      21120121140136 - Shift 2
+<br />MUHAMAD IBNU FADHIL     21120121120023 - Shift 2
+<br />ZIDANE ROMANDHON PUTRA  21120121140115 - Shift 2
