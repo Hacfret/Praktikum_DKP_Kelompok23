@@ -79,7 +79,7 @@ def diskon(totalByr):
 
 
 panggil = metode(totalModal())
-print(print("total harga dengan diskon : " , diskon(total))
+print("total harga dengan diskon : " , diskon(total))
 panggil.trims()
 panggil.selesai(5)
 input("ENTER untuk selesai")
