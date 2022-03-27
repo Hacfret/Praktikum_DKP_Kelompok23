@@ -2,7 +2,7 @@
 #
 #
 #Muhamad Ibnu Fadhil - 21120121120023 - Shift 2
-#
+#Zidane Romandhon Putra - 21120121140115 - Shift 2
 
 from metode import *
 
