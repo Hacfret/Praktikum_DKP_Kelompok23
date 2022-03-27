@@ -1,3 +1,9 @@
+#Kelompok 23
+#
+#
+#Muhamad Ibnu Fadhil - 21120121120023 - Shift 2
+#
+
 class metode: #print modal
     #init method
     def __init__(self, harga):
