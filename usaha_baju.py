@@ -5,17 +5,20 @@
 #Zidane Romandhon Putra - 21120121140115 - Shift 2
 
 from metode import *
-
+print("Selamat datang di Tugas program Kelompok 23\n")
 def listBaju(): #fungsi list baju no return
     print("""
+     -------------------------------------
+    Simulasi harga total modal pakaian
     Persiapkan uang modal!
-    Daftar list pakaian dan harga-nya
+    Daftar list pakaian dan harga-nya :
     1 : Kaos Polo\t - Rp. 50.000
     2 : Kemeja\t\t - Rp. 80.000
     3 : Baju Batik\t - Rp. 65.000
     4 : Celana\t\t - Rp. 70.000
     5 : Rok\t\t - Rp. 55.000
     0 : Batal
+    ------------------------------------
     """)
 
 
