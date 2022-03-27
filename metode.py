@@ -1,6 +1,6 @@
 #Kelompok 23
 #
-#
+#Farah Gesty Amandari - 21120121140112 - Shift 2
 #Muhamad Ibnu Fadhil - 21120121120023 - Shift 2
 #Zidane Romandhon Putra - 21120121140115 - Shift 2
 
