@@ -84,3 +84,4 @@ panggil.trims()
 panggil.selesai(5)
 input("ENTER untuk selesai")
 
+
