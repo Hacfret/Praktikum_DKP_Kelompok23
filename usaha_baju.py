@@ -1,3 +1,9 @@
+#Kelompok 23
+#
+#
+#Muhamad Ibnu Fadhil - 21120121120023 - Shift 2
+#
+
 from metode import *
 
 def listBaju(): #fungsi list baju no return
